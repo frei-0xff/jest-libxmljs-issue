@@ -1,0 +1,26 @@
+{
+  "name": "jest-libxmljs-issue",
+  "version": "1.0.0",
+  "description": "Demonstrating issue with execution libxmljs under jest",
+  "main": "index.js",
+  "dependencies": {
+    "libxmljs": "^0.19.5"
+  },
+  "devDependencies": {
+    "jest": "^24.8.0"
+  },
+  "scripts": {
+    "start": "node index.js",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/frei-0xff/jest-libxmljs-issue.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/frei-0xff/jest-libxmljs-issue/issues"
+  },
+  "homepage": "https://github.com/frei-0xff/jest-libxmljs-issue#readme"
+}
